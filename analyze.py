@@ -1,4 +1,4 @@
-from app.dbq import get_db
+from dbq import get_db
 from loguru import logger
 
 
